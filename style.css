@@ -1,0 +1,41 @@
+.l1 {
+	text-align:center;
+background-image: url();
+background-size: cover;
+min-height: 840px;
+min-width: 840px;
+width: 1%;
+height: auto;
+top: 10;
+left: 10;
+}
+.mainInfo{
+ padding: 0px;
+ border-radius: 10px;
+ margin-bottom: 20px;
+ display: flex;
+}
+
+.l1{
+	padding: 0px 60px;
+	list-style-type: disc;
+}
+html{
+	background-color: rgb(24, 26, 27);
+}
+.baza{
+	padding-left:35%;
+	padding-right:35%;
+	color: white;
+	padding-top: 3%;
+	
+}
+p {
+  font-size: 26px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.text-white {
+  color: white;
+}
